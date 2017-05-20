@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel atualizado
+                    Laravel atualizado ghfh
                 </div>
 
                 <div class="links">
